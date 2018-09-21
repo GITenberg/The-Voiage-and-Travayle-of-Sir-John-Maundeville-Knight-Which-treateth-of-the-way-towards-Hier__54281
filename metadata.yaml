@@ -1,0 +1,29 @@
+_repo: The-Voiage-and-Travayle-of-Sir-John-Maundeville-Knight-Which-treateth-of-the-way-towards-Hier__54281
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Ashton, John
+    birthdate: 1834
+    deathdate: 1911
+    gutenberg_agent_id: '9006'
+    url: http://www.gutenberg.org/2009/agents/9006
+  - agent_name: Maundeville, John
+    gutenberg_agent_id: '47802'
+    url: http://www.gutenberg.org/2009/agents/47802
+description: ''
+gutenberg_issued: '2017-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54281'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Voiage and Travayle of Sir John Maundeville Knight
+
+  Which treateth of the way towards Hierusalem and of
+
+  marvayles of Inde with other ilands and countreys'
+url: http://www.gutenberg.org/ebooks/54281
